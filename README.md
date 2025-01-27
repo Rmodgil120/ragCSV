@@ -9,12 +9,16 @@ embeddings, and vector stores for efficient data retrieval.
 # Learing from this project:
 1.	RAG Workflow:
     Learned to integrate a Retrieval-Augmented Generation pipeline effectively by combining embeddings with LLM reasoning.
+
 2.	Embedding Management:
    	Understood the importance of efficient storage and retrieval of embeddings (FAISS).
+
 3.	Query Interpretation:
   	Gained insights into parsing natural language queries and mapping them to structured csv data.
+
 4.	LLM Integration:
   	Realized the potential of LLMs to enhance data retrieval and provide responses.
+
   	
 This assignment provided practical experience in building intelligent systems that combine machine learning and natural language processing for data mining tasks.
 
