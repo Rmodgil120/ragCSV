@@ -28,7 +28,7 @@ Step 3: Install the dataset provided with this project <br />
 Step 4: install the libraries listed in the requirements.txt file which is present in the folder<br />
 Step 5: Run the ragCSV.ipynb file in Jupyter Notebook<br />
 Step 6: Inside the ragCSV file, enter the input in the line:<br />
- answer = rag_chain.invoke({"input": "enter the desired input here"})
+        answer = rag_chain.invoke({"input": "enter the desired input here"})
 
  
 Disclaimer: To run any separate csv file with this model, one needs to modify the system prompt slightly to match the dataset. 
