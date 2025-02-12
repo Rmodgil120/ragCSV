@@ -23,7 +23,7 @@ This assignment provided practical experience in building intelligent systems th
 # How to make this project run on your machine? 
 
 Step 1: Install Jupyter Notebook <br />
-Step 2: Get an API key of Google Gemini from here <br />
+Step 2: Get an API key of Google Gemini <br />
 Step 3: Install the dataset provided with this project <br />
 Step 4: install the libraries listed in the requirements.txt file which is present in the folder<br />
 Step 5: Run the ragCSV.ipynb file in Jupyter Notebook<br />
